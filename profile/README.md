@@ -84,10 +84,13 @@ Built for the AI engineering loop: **find the step, change one thing, prove the 
 <picture><img src="https://raw.githubusercontent.com/Retraceai-tech/.github/main/profile/assets/banner.png" alt="Retrace" height="28" /></picture>
 
 <sub>
-  <a href="https://retraceai.tech"><b>Website</b></a> &nbsp;•&nbsp;
-  <a href="https://docs.retraceai.tech"><b>Documentation</b></a> &nbsp;•&nbsp;
-  <a href="https://cli.retraceai.tech"><b>CLI</b></a> &nbsp;•&nbsp;
-  <a href="https://github.com/Retraceai-tech"><b>GitHub</b></a>
+  <a href="https://retraceai.tech">Website</a> &nbsp;•&nbsp;
+  <a href="https://docs.retraceai.tech">Documentation</a> &nbsp;•&nbsp;
+  <a href="https://cli.retraceai.tech">CLI</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Retraceai-tech">GitHub</a> &nbsp;•&nbsp;
+  <a href="https://x.com/Retraceai_tech">X</a> &nbsp;•&nbsp;
+  <a href="https://retraceai.tech/privacy">Privacy</a> &nbsp;•&nbsp;
+  <a href="https://retraceai.tech/terms">Terms</a>
 </sub>
 
 <sub>© 2026 Retrace · The execution replay engine for AI agents · Made for AI engineers.</sub>
