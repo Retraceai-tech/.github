@@ -79,4 +79,17 @@ def run_agent(prompt: str):
 
 Built for the AI engineering loop: **find the step, change one thing, prove the fix.**
 
+<br/>
+
+<picture><img src="https://raw.githubusercontent.com/Retraceai-tech/.github/main/profile/assets/banner.png" alt="Retrace" height="28" /></picture>
+
+<sub>
+  <a href="https://retraceai.tech"><b>Website</b></a> &nbsp;•&nbsp;
+  <a href="https://docs.retraceai.tech"><b>Documentation</b></a> &nbsp;•&nbsp;
+  <a href="https://cli.retraceai.tech"><b>CLI</b></a> &nbsp;•&nbsp;
+  <a href="https://github.com/Retraceai-tech"><b>GitHub</b></a>
+</sub>
+
+<sub>© 2026 Retrace · The execution replay engine for AI agents · Made for AI engineers.</sub>
+
 </div>
