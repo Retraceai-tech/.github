@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/Retraceai-tech/.github/main/profile/assets/banner.gif" alt="Retrace" width="560" />
 
-# Retrace
-
 ### The execution replay engine for AI agents.
 
 Record every LLM call, tool invocation, and error your agents make — replay it step-by-step like a video, fork from any decision point, and prove the fix.
