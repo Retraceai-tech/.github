@@ -87,6 +87,7 @@ Built for the AI engineering loop: **find the step, change one thing, prove the 
   <a href="https://cli.retraceai.tech">CLI</a> &nbsp;•&nbsp;
   <a href="https://github.com/Retraceai-tech">GitHub</a> &nbsp;•&nbsp;
   <a href="https://x.com/Retraceai_tech">X</a> &nbsp;•&nbsp;
+  <a href="mailto:hello@retraceai.tech">Contact</a> &nbsp;•&nbsp;
   <a href="https://retraceai.tech/privacy">Privacy</a> &nbsp;•&nbsp;
   <a href="https://retraceai.tech/terms">Terms</a>
 </sub>
