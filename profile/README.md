@@ -73,13 +73,11 @@ def run_agent(prompt: str):
 
 ---
 
+<picture><img src="https://raw.githubusercontent.com/Retraceai-tech/.github/main/profile/assets/banner.png" alt="Retrace" height="28" /></picture>
+
 **[Get started →](https://retraceai.tech)** · **[Read the docs →](https://docs.retraceai.tech)** · **[Try the CLI →](https://cli.retraceai.tech)**
 
 Built for the AI engineering loop: **find the step, change one thing, prove the fix.**
-
-<br/>
-
-<picture><img src="https://raw.githubusercontent.com/Retraceai-tech/.github/main/profile/assets/banner.png" alt="Retrace" height="28" /></picture>
 
 <sub>
   <a href="https://retraceai.tech">Website</a> &nbsp;•&nbsp;
